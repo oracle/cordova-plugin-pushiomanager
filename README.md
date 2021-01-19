@@ -74,7 +74,7 @@ git clone https://github.com/oracle/cordova-plugin-pushiomanager
 ```
 
 
-> For iOS - Copy `PushIOManager.framework`  and place it in the plugin  `PATH_TO_cordova-plugin-pushiomanager_DIRECTORY/frameworks/` folder before adding plugin to project. 
+> For iOS - Copy `PushIOManager.framework`  and place it in the plugin  `PATH_TO_pushiomanager-cordova-plugin_DIRECTORY/frameworks/` folder before adding plugin to project. 
 
 
 The plugin can be installed with the Cordova CLI,
